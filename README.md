@@ -26,4 +26,4 @@
 ![Snake animation](https://github.com/brunopaiva1/brunopaiva1/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-- [Curriculo lattes](http://lattes.cnpq.br/9168404130665164)
+- [Currículo lattes](http://lattes.cnpq.br/9168404130665164)
