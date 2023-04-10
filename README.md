@@ -1,8 +1,10 @@
 ### Hi, i'am Caio Moisés
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=caiomoises&hide=jupyter%20notebook,tex" height="160" alt="languages graph"  />
+<div align="center">
+  <h2>Minhas Linguagens no Github</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=caiomoises&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
 </div>
+
 
 
 <div style="display: inline_block"><br>
