@@ -25,4 +25,4 @@
   <a href="https://www.linkedin.com/in/caio-moises-vieira-cavalcante-a91548255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- [Currículo lattes](http://lattes.cnpq.br/9168404130665164)
+- [Currículo lattes]([http://lattes.cnpq.br/9168404130665164](https://www.linkedin.com/in/caio-mois%C3%A9s-vieira-cavalcante-a91548255/)https://www.linkedin.com/in/caio-mois%C3%A9s-vieira-cavalcante-a91548255/)
